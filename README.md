@@ -13,5 +13,5 @@
   </tr>
 </table>
 
-## 시스템 구성도
+## 시스템 구조도
 ![image](https://user-images.githubusercontent.com/61930770/203266635-a7967b1c-3a39-42ac-b067-bbc7c64452bf.png)
